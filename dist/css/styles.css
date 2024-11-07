@@ -8223,7 +8223,7 @@ textarea.form-control-lg {
 .bg-primary {
   background:
     linear-gradient(90deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.8) 100%),
-    url("assets/services.gif");
+    url("assets\services.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11112,11 +11112,11 @@ footer.footer .social-link:hover {
   position: relative;
   min-height: 30rem;
   width: 100%;
-  padding-top: 27rem; /* Top padding for the content */
-  padding-bottom: 8rem; /* Bottom padding for the content */
+  padding-top: 27rem; 
+  padding-bottom: 8rem; 
   background: 
     linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%),
-    url("assets/bg-masthead.gif");
+    url("assets\bg-masthead.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
