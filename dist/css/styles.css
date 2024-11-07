@@ -8221,7 +8221,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.8) 100%), 
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.95) 0%, rgba(0, 0, 0, 1) 100%), 
                 url('../assets/services.gif');
     background-position: center;
     background-repeat: no-repeat;
